@@ -12,7 +12,7 @@ h1{
 td {
     width: 10em;
     height: 20em;
-    border-width: 10px;
+    border-width: 0.15em;
     border-style: solid;
     border-color: white;
 }
