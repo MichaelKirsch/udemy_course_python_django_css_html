@@ -2,6 +2,7 @@ body{
    background: #359cbe;
 }
 h1{
+    font-family: 'Open Sans', sans-serif;
     border: black solid thick;
     color: black;
 }
@@ -10,9 +11,9 @@ h2{
     color: #432dba;
 }
 
-.blogtext{
-    width: 100%;
-    height: 20%;
+#textblock{
+    width: 60%;
+    height: 60%;
     border: grey solid thick;
 }
 
@@ -52,4 +53,13 @@ li a[href="http://www.google.com"]{
 .thankyou
 {
     background: #f88400;
+}
+
+div p{
+    background: #f88400;
+}
+
+a:visited
+{
+    color: deeppink;
 }
