@@ -1,0 +1,15 @@
+td{
+    width: 7em;
+    height: 7em;
+    border-color: black;
+    border-style: solid;
+}
+
+table
+{
+    margin: auto;
+}
+
+.name_inputs{
+    width: 50%;
+}

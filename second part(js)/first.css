@@ -1,0 +1,11 @@
+td{
+    width: 7em;
+    height: 7em;
+    border: #2aa064 solid thick;
+    text-align: center;
+}
+
+#tab{
+    margin: auto;
+}
+
