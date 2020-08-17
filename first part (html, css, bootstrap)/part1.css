@@ -1,0 +1,55 @@
+/*penispenispenispenispenispenispenispenispenis*/
+
+body{
+    background: url("https://pix10.agoda.net/hotelImages/5647641/-1/45ee96c8c2b177ffcd99818b6b6387f0.jpg");
+}
+
+.penis{
+    background: #817e94;
+    border-color: #36f300;
+    border-width: 10px;
+    border-style: wave;
+    border-radius: 10px;
+    width: 20%;
+}
+
+h1{
+    color: #ffffff;
+}
+
+p{
+    color: #00ffaf;
+}
+ li{
+     color: #ff0000;
+ }
+
+span{
+    background: #f88400;
+}
+
+span+p{
+    border: #1a00be 5px dotted;
+}
+
+.seconddiv{
+    background: chocolate;
+    border-style: none;
+}
+#mustbeunique
+{
+    color: #0045ff;
+    text-decoration: line-through;
+}
+
+#liste li{
+    color: deeppink;
+}
+
+.topitems{
+    color: #00ffaf;
+}
+
+#two{
+    color: green;
+}

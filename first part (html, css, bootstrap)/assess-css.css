@@ -1,0 +1,65 @@
+body{
+   background: #359cbe;
+}
+h1{
+    font-family: 'Open Sans', sans-serif;
+    border: black solid thick;
+    color: black;
+}
+
+h2{
+    color: #432dba;
+}
+
+#textblock{
+    width: 60%;
+    height: 60%;
+    border: grey solid thick;
+}
+
+#mail{
+    border: double red medium;
+}
+#pass{
+    border: double red medium;
+}
+
+input{
+    border: red double medium;
+}
+
+.name{
+    background: blue;
+    border: orange dotted thick;
+}
+.exit
+{
+    color: black;
+    background: blue;
+    border: orange dotted thick;
+}
+
+#itemone{
+    text-decoration: overline;
+}
+
+
+
+li a[href="http://www.google.com"]{
+    text-decoration: underline;
+    color: #0045ff;
+}
+
+.thankyou
+{
+    background: #f88400;
+}
+
+div p{
+    background: #f88400;
+}
+
+a:visited
+{
+    color: deeppink;
+}

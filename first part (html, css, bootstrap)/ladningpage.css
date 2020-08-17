@@ -1,0 +1,66 @@
+body{
+    background: #23b4b8;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 150%;
+}
+
+#boxupper{
+    background: #00142a;
+    margin-top: 0%;
+    margin-left: -10%;
+    width: 120%;
+    height: 3em;
+}
+
+.outerbox{
+    text-align: center;
+    background: #00142a;
+    color: white;
+    margin: 0em 3em 1em;
+    border: none;
+}
+
+h1{
+
+}
+
+p{
+
+}
+
+.innerbox{
+    margin: auto;
+    width: 70%;
+}
+
+.paras{
+    margin-top: 3em;
+}
+
+#submitbutton{
+    font-size: large;
+    color: #000000;
+    background: #f88400;
+    border-radius: 1em;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    height: 4em;
+    width: 7em;
+    font-weight: bold;
+}
+
+.inputfield{
+    text-align: center;
+    width: 20%;
+    font-size: 1em;
+}
+
+h6{
+    margin-top: 0.3em;
+    margin-bottom: 0em;
+}
+
+#signup{
+    margin-top: 3em;
+    font-weight: bold;
+}
